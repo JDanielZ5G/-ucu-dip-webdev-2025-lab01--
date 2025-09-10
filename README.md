@@ -1,5 +1,5 @@
 # Web-and-mobile
-for the developement of web applications and mobile
+for the developement of websites  and mobile applications
 # Web-and-mobile
 
 This repository is for the development of web applications and mobile applications.
